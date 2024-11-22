@@ -25,3 +25,15 @@ A fully responsive food delivery website, designed to cater to all devices. Buil
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/dhaba-website.git
+
+---
+
+<section id="contact-me">
+  <h2>📞 Contact Me</h2>
+  <p>Have questions or feedback? Feel free to reach out:</p>
+  <ul>
+    <li><a href="https://github.com/TIRTH0409" target="_blank">GitHub</a></li>
+    <li><a href="https://linkedin.com/in/tirth0409" target="_blank">LinkedIn</a></li>
+    <li><a href="https://behance.net/TIRTH0409" target="_blank">Behance</a></li>
+  </ul>
+</section>
