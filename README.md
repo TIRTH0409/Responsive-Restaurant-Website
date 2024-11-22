@@ -1,5 +1,3 @@
-# Dhaba Website
-
 <h2 align="center">Dhaba Food Delivery Website</h2>
 
 A fully responsive food delivery website, designed to cater to all devices. Built using **HTML**, **CSS**, and **JavaScript**.
@@ -8,7 +6,7 @@ A fully responsive food delivery website, designed to cater to all devices. Buil
 
 ## Demo Screenshot
 
-![Dhaba Website Preview](./dhaba-website-preview.png)
+![Dhaba Website Preview](./DHABA.png)
 
 ---
 
